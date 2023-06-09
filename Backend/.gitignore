@@ -1,0 +1,11 @@
+node_modules
+/package-lock.json
+/yarn.lock
+package-lock.json
+yarn.lock
+
+# .gitignore
+.env
+build
+
+scripts
